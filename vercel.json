@@ -1,5 +1,5 @@
 {
-  "framework": null,
+  "framework": "Vite"
   "installCommand": "pnpm install",
   "buildCommand": "npm run vercel-build"
 }
